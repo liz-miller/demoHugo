@@ -68,7 +68,7 @@ content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor.
 [Languages.en.params.cta.button]
 enable = true
 label = "contact us"
-link = "contact"
+link = "Submit a Ticket"
 
 
 ################## english navigation #################
@@ -83,7 +83,7 @@ url = "faq"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Submit a Ticket"
 url = "contact"
 weight = 3
 

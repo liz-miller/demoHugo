@@ -1,6 +1,6 @@
 ---
-title: "Got Any Questions"
+title: "Submit a Ticket"
 draft: false
 ---
 
-Submit the form and confirm your email address at [Formspree](https://formspree.io/).
+Need help? Submit a service ticket below. We will respond in 24-48 hours.
