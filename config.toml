@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://examplesite.com/"
+baseURL = "demohugolr.netlify.app"
 # theme
 theme = "dot-hugo"
 # site title
